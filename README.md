@@ -44,9 +44,13 @@ Programming the components to work together:
 What parts of the project do you anticipate you will complete in each of the next 5 weeks? Your goal is to solve the scary problems as quickly as possible!
 
 Week 1: Concept Brainstorm, Write Proposal
+
 Week 2: Moisture Sensors
+
 Week 3: LED Lights
+
 Week 4: Sound System, Build House (Extra Time)
+
 Week 5: Present!
 
 ## References and Link
