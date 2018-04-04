@@ -18,11 +18,17 @@ Through this tool, we aim to make it easier for succulent owners to take care of
 ## Component Parts
 
 * Moisture Sensor 
+
 * LED Lights 
+
 * Small Speaker 
+
 * Wires 
+
 * Battery 
+
 * Breadboard (?)
+
 * Body/Base (To connect and house everything which could be a container or a 3D printed body.)
 
 / Block Diagram In Repository / 
