@@ -58,3 +58,4 @@ Week 5: Present!
 * http://gardenbot.org/howTo/soilMoisture/
 * https://www.electronicsweekly.com/blogs/gadget-master/arduino/build-plant-monitor-arduino-2016-09/
 * http://www.deviceplus.com/how-tos/arduino-guide/an-arduino-plant-monitoring-watering-device/
+* http://www.instructables.com/id/Moisture-Detection-With-Two-Nails/
